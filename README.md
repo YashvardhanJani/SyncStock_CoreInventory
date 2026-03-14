@@ -125,7 +125,6 @@ CoreInventory/
 │
 ├── seed_and_reset.py           # Database reset & user seeding script
 ├── .env                        # Environment configuration
-├── railway.toml                # Railway deployment config
 └── README.md                   # This file
 ```
 
@@ -356,28 +355,6 @@ The app will be available at: **http://localhost:8000**
 
 ---
 
-## 🚢 Deployment
-
-### Railway
-
-The project includes a `railway.toml` for one-click Railway deployment:
-
-```toml
-[build]
-builder = "nixpacks"
-
-[deploy]
-startCommand = "cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT"
-```
-
-Set the following environment variables in Railway:
-- `DATABASE_URL` — Your MySQL connection string
-- `JWT_SECRET_KEY` — A strong, random secret
-- `ALLOWED_ORIGINS` — Your frontend domain (or `*`)
-- `SMTP_*` — Email configuration for password reset
-
----
-
 ## 🛠️ Development
 
 ### Running Tests
@@ -430,7 +407,6 @@ python seed_and_reset.py
 | **Auth** | JWT (python-jose), bcrypt (passlib) |
 | **Email** | SMTP (smtplib) for OTP-based password reset |
 | **Frontend** | Vanilla HTML, CSS, JavaScript (no frameworks) |
-| **Deployment** | Railway (Nixpacks) |
 
 ---
 
