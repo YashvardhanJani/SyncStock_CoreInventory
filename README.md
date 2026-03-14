@@ -432,6 +432,53 @@ python seed_and_reset.py
 
 ---
 
+## ✦ Contributors - Team SyncStock
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/YashvardhanJani">
+        <img src="https://avatars.githubusercontent.com/u/185942676?v=4" width="40px;" style="border-radius: 50%; border: 2px solid #fff; box-shadow: 0 0 5px rgba(0,0,0,0.2);" alt="Yashvardhan Jani"/>
+    </td>
+    <td align="center">
+        <a href="https://github.com/YashvardhanJani">
+        <b>Yashvardhan Jani</b></a><br/>
+        🔗 <a href="https://www.linkedin.com/in/yashvardhan-jani">LinkedIn</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dakshshah2099">
+        <img src="https://avatars.githubusercontent.com/u/251745636?v=4" width="40px;" style="border-radius: 50%; border: 2px solid #fff; box-shadow: 0 0 5px rgba(0,0,0,0.2);" alt="Daksh Shah"/>
+    </td>
+    <td align="center">
+        <a href="https://github.com/dakshshah2099">
+        <b>Daksh Shah</b></a><br/>
+        🔗 <a href="https://www.linkedin.com/in/dakshshah2099/">LinkedIn</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Vishwashah11">
+        <img src="https://avatars.githubusercontent.com/u/184846059?v=4" width="40px;" style="border-radius: 50%; border: 2px solid #fff; box-shadow: 0 0 5px rgba(0,0,0,0.2);" alt="Vishwa Shah"/>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Vishwashah11">
+        <b>Vishwa Shah</b></a><br/>
+        🔗 <a href="https://www.linkedin.com/in/vishwa-shah-27798b320/">LinkedIn</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mansisharma46">
+        <img src="https://avatars.githubusercontent.com/u/253931964?v=4" width="40px;" style="border-radius: 50%; border: 2px solid #fff; box-shadow: 0 0 5px rgba(0,0,0,0.2);" alt="Mansi Sharma"/>
+    </td>
+    <td align="center">
+        <a href="https://github.com/mansisharma46">
+        <b>Mansi Sharma</b></a><br/>
+        🔗 <a href="https://www.linkedin.com/in/mansisharmacse/">LinkedIn</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📄 License
 
 This project is proprietary software developed for OdooxIndus.
