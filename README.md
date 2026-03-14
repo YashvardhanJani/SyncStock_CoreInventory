@@ -485,4 +485,4 @@ This project is proprietary software developed for OdooxIndus.
 
 ---
 
-Built with ❤️ by the CoreInventory team.
+Built with ❤️ by the SyncStock Team.
