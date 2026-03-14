@@ -2,6 +2,8 @@
 
 **A full-stack warehouse and inventory management system** built with FastAPI (Python) and vanilla JavaScript. CoreInventory provides end-to-end visibility into stock levels, inbound/outbound operations, internal transfers, and stock adjustments — all through a modern, dark-themed web interface with role-based access control.
 
+- Deployment Link: https://coreinventory-production.up.railway.app/
+
 ---
 
 ## 🌟 Key Features
