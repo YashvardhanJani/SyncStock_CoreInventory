@@ -3,6 +3,7 @@
 **A full-stack warehouse and inventory management system** built with FastAPI (Python) and vanilla JavaScript. CoreInventory provides end-to-end visibility into stock levels, inbound/outbound operations, internal transfers, and stock adjustments — all through a modern, dark-themed web interface with role-based access control.
 
 Deployment On GCloud : https://coreinventory-livjvxnaoq-el.a.run.app/
+Deployment Repo : https://github.com/dakshshah2099/CoreInventory
 
 ---
 
